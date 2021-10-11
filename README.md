@@ -322,7 +322,7 @@ UP UP DOWN DOWN LEFT RIGHT LEFT RIGHT B A
 
 It's Konami Code...
 
-Let's try, but It should be noted that we need to enter this cheat code befor the game is started.
+Let's try, but It should be noted that we need to enter this cheat code before the game is started.
 
 # Get BOF
 
