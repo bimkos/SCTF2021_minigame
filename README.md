@@ -179,8 +179,8 @@ What about lose_2?
 [0x00001c15]> 
 ```
 
-O_O we see the win fun, so if we get lose_2, we can win, but how?
-Answer: only of we have obj.is_cheat_active.
+O_O we see the win fun, so if we got lose_2, we can win, but how?
+Answer: only if we have obj.is_cheat_active.
 
 ```
 │           0x00001c2f      0fb605163d20.  movzx eax, byte [obj.is_cheat_active] ; [0x20594c:1]=0
